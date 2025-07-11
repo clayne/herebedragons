@@ -2,7 +2,7 @@
 vulkan/*.dylib
 build/
 .DS_Store
-tools/
+/tools/
 Debug/
 Release/
 x64/
