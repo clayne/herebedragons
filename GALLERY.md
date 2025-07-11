@@ -16,6 +16,18 @@
 ![](webgpu/images/webgpu1.png)
 ![](webgpu/images/webgpu3.png)
 
+## DirectX9
+![](dx9/images/dx9-1.png)
+![](dx9/images/dx9-2.png)
+
+## DirectX11
+![](dx11/images/dx11-1.png)
+![](dx11/images/dx11-3.png)
+
+## DirectX12
+![](dx12/images/dx12-1.png)
+![](dx12/images/dx12-2.png)
+
 ## Metal
 ![](metal/images/metal1.png)
 ![](metal/images/metal2.png)
@@ -58,6 +70,10 @@
 ## PlayStation 2
 ![](ps2/images/ps2-1.png)
 ![](ps2/images/ps2-3.png)
+
+## Dreamcast
+![](dreamcast/images/dreamcast-1.png)
+![](dreamcast/images/dreamcast-3.png)
 
 ## Glide
 ![](glide/images/glide-1.png)

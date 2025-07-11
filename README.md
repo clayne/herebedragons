@@ -28,6 +28,7 @@ The following versions are currently available:
 - [DX9](https://github.com/kosua20/herebedragons/tree/master/dx9)
 - [DX11](https://github.com/kosua20/herebedragons/tree/master/dx11)
 - [DX12](https://github.com/kosua20/herebedragons/tree/master/dx12)
+- [Dreamcast](https://github.com/kosua20/herebedragons/tree/master/dreamcast)
 
 The following versions are (tentatively) planned:
 
